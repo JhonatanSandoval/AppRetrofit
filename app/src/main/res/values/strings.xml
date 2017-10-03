@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppRetrofit</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarme">Registrarme como nuevo usuario</string>
+    <string name="bienvenido">Bienvenid@</string>
+    <string name="nombres">Nombres</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="registrar">Registrar</string>
+    <string name="contentImages" />
+
+</resources>
